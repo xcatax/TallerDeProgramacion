@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\i386-win32\fpc.exe" Date="1381338394"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\Cata\Desktop\rattoCatalina\lib\i386-win32 -FuC:\Users\Cata\Desktop\rattoCatalina\ -FUC:\Users\Cata\Desktop\rattoCatalina\lib\i386-win32\ -FEC:\Users\Cata\Desktop\rattoCatalina\ -oC:\Users\Cata\Desktop\rattoCatalina\RattoCatalina.exe RattoCatalina.pas"/>
+  <Complete Value="False"/>
+</CONFIG>
